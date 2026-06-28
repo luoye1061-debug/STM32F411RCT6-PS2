@@ -1,0 +1,26 @@
+# Keil MDK output and middle files
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.htm
+*.build_log.htm
+*.dep
+*.lst
+*.map
+*.__i
+*.iex
+*.tra
+*.i
+
+# Folders to ignore
+Listings/
+Objects/
+MDK-ARM/DebugConfig/
+MDK-ARM/.RTE/
+.mxproject
+
+# OS files
+.DS_Store
+Thumbs.db
